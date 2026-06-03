@@ -9,7 +9,7 @@
 ![Education](https://img.shields.io/badge/Purpose-Educational-orange?style=for-the-badge)
 
 **A comprehensive OSINT (Open Source Intelligence) tool built for ethical cybersecurity research.**
-*Final year BE Cybersecurity project — built from scratch in Python on Kali Linux.*
+
 
 </div>
 
@@ -341,8 +341,8 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-BE Cybersecurity — [Your College Name]
+Y S Nandish
+BE Cybersecurity 
 Built on Kali Linux | June 2026
 
 ---
