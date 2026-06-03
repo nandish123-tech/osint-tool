@@ -1,0 +1,47 @@
+# ── Python ────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# ── Virtual environment ───────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── SECRET — never commit these ──────────────────────
+.env
+*.key
+*.pem
+*.p12
+
+# ── Output / scan results ─────────────────────────────
+output/
+*.json
+*.pdf
+
+# ── System files ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ── IDE ───────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ── Logs ──────────────────────────────────────────────
+*.log
+logs/
+
+# ── Temp downloads ────────────────────────────────────
+/tmp/osint_img*
+.env
