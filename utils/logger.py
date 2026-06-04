@@ -67,7 +67,7 @@ BANNER = r"""
  \___/|____/___|_| \_| |_|      |_| \___/ \___/|_____|
 
         OSINT Intelligence Tool  |  v1.0  |  Kali Linux
-        Built by: [your name]    |  BE Cybersecurity Project
+        Built by: Y S Nandish    |  BE Cybersecurity Project
 """
 
 def print_banner():
